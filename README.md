@@ -1,3 +1,3 @@
-# practice1
-GIT Practice
+# GIT Practice
+
 Practicing GIT 
